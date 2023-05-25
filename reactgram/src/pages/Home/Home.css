@@ -1,0 +1,149 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  background-color: #000000;
+  padding: 2rem;
+}
+
+.post {
+  background-color: #000;
+  border: 1px solid #dbdbdb;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 30rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.post-header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  height: 4rem;
+  width: 4rem;
+  padding: 15px;
+}
+
+.post-author {
+  position: absolute;
+  margin-left: 10vh;
+  text-transform: unset;
+  font-size: 20px;
+}
+
+
+.author-name {
+  font-weight: bold;
+}
+
+.post-image {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.post-footer {
+  padding: 1rem;
+}
+
+.post-actions {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.post-action {
+  align-items: center;
+  display: flex;
+}
+
+.post-action:not(:last-child) {
+  margin-right: 1rem;
+}
+
+.like-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 1.25rem;
+  margin-right: 0.5rem;
+  outline: none;
+}
+
+.comments-container {
+  background-color: #000;
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+  padding: 8px;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.comment {
+  background-color: #F0F0F0;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,.1);
+  font-size: 14px;
+  margin-bottom: 16px;
+  padding: 12px;
+  height: 20%;
+}
+
+.comment:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,.1);
+}
+
+.comment .comment-author {
+  color: #0094f6;
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.comment .comment-text {
+  color: #000000;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.delete-comment-icon {
+  margin-left: 10px;
+  color: red;
+  cursor: pointer;
+}
+
+.comment-button {
+  margin-top: 10px;
+  margin-left: 8px;
+  align-items: center;
+}
+
+.comment-box {
+  width: 80%;
+}
+
+.post-action {
+  align-items: center;
+  display: flex;
+}
+
+.post-action:not(:last-child) {
+  margin-right: 1rem;
+}
+
+.action-text {
+  display: flex;
+  align-items: center;
+  margin-left: 0.5rem;
+}
+
+
+
+

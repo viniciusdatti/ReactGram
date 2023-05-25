@@ -1,0 +1,171 @@
+{
+  "Users": [
+    {
+      "name": "vinicius",
+      "email": "vini@superior-ind.com",
+      "password": "vini321",
+      "bio": "superior",
+      "id": 1
+    },
+    {
+      "name": "Vinicius",
+      "email": "viniciusdatti@superior-ind.com",
+      "password": "vini4321",
+      "id": 2
+    }
+  ],
+  "Publish": [
+    {
+      "id": 1683832589196,
+      "author": "Vinicius",
+      "title": "Programer",
+      "image": "https://picsum.photos/id/5/5000/3334",
+      "likes": 568,
+      "comments": []
+    },
+    {
+      "id": 1683832589201,
+      "author": "Rafaela",
+      "title": "Designer",
+      "image": "https://picsum.photos/id/237/5000/3334",
+      "likes": 897,
+      "comments": []
+    },
+    {
+      "id": 1683832589202,
+      "author": "Pedro",
+      "title": "Writer",
+      "image": "https://picsum.photos/id/201/5000/3334",
+      "likes": 342,
+      "comments": []
+    },
+    {
+      "id": 1683832589203,
+      "author": "Marina",
+      "title": "Photographer",
+      "image": "https://picsum.photos/id/106/5000/3334",
+      "likes": 456,
+      "comments": []
+    },
+    {
+      "id": 1683832589204,
+      "author": "Lucas",
+      "title": "Filmmaker",
+      "image": "https://picsum.photos/id/103/5000/3334",
+      "likes": 653,
+      "comments": []
+    },
+    {
+      "id": 1683832589205,
+      "author": "Julia",
+      "title": "Musician",
+      "image": "https://picsum.photos/id/109/5000/3334",
+      "likes": 789,
+      "comments": []
+    },
+    {
+      "id": 1683832589206,
+      "author": "Gustavo",
+      "title": "Painter",
+      "image": "https://picsum.photos/id/111/5000/3334",
+      "likes": 234,
+      "comments": []
+    },
+    {
+      "id": 1683832589207,
+      "author": "Isabella",
+      "title": "Chef",
+      "image": "https://picsum.photos/id/114/5000/3334",
+      "likes": 987,
+      "comments": []
+    },
+    {
+      "id": 1683832589208,
+      "author": "Mateus",
+      "title": "Athlete",
+      "image": "https://picsum.photos/id/116/5000/3334",
+      "likes": 345,
+      "comments": []
+    },
+    {
+      "id": 1683832589209,
+      "author": "Ana",
+      "title": "Natureza",
+      "image": "https://picsum.photos/id/237/5000/3333",
+      "likes": 102,
+      "comments": []
+    },
+    {
+      "id": 1683832589210,
+      "author": "João",
+      "title": "Paisagem urbana",
+      "image": "https://picsum.photos/id/430/5000/3333",
+      "likes": 56,
+      "comments": []
+    },
+    {
+      "id": 1683832589211,
+      "author": "Marina",
+      "title": "Fotografia abstrata",
+      "image": "https://picsum.photos/id/237/5000/3333",
+      "likes": 23,
+      "comments": []
+    },
+    {
+      "id": 1683832589212,
+      "author": "Pedro",
+      "title": "Arquitetura",
+      "image": "https://picsum.photos/id/1012/5000/3333",
+      "likes": 87,
+      "comments": []
+    },
+    {
+      "id": 1683832589213,
+      "author": "Larissa",
+      "title": "Cores vibrantes",
+      "image": "https://picsum.photos/id/1080/5000/3333",
+      "likes": 45,
+      "comments": []
+    },
+    {
+      "id": 1683832589214,
+      "author": "Gustavo",
+      "title": "Texturas",
+      "image": "https://picsum.photos/id/168/5000/3333",
+      "likes": 12,
+      "comments": []
+    },
+    {
+      "id": 1683832589215,
+      "author": "Juliana",
+      "title": "Retratos",
+      "image": "https://picsum.photos/id/1065/5000/3333",
+      "likes": 67,
+      "comments": []
+    },
+    {
+      "id": 1683832589216,
+      "author": "Lucas",
+      "title": "Arte digital",
+      "image": "https://picsum.photos/id/299/5000/3333",
+      "likes": 34,
+      "comments": []
+    },
+    {
+      "id": 1683832589218,
+      "author": "Ricardo",
+      "title": "Animais",
+      "image": "https://picsum.photos/id/237/5000/3333",
+      "likes": 19,
+      "comments": []
+    },
+    {
+      "id": 1683889221392,
+      "author": "Thiago",
+      "title": "Aesthetic",
+      "image": "https://picsum.photos/id/139/5000/3334",
+      "likes": 4580,
+      "comments": []
+    }
+  ]
+}
